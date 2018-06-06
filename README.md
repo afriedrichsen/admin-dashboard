@@ -1,6 +1,6 @@
 # AdminDashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Administration dashboard written to showcase Angular 6.
 
 ## Development server
 
